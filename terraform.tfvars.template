@@ -1,0 +1,23 @@
+# The name of the resource group in Azure where all resources will be deployed
+resource_group_name          = ""
+
+# The ID of your Azure subscription
+azure_subscription_id        = ""
+
+# The tenant ID of your Azure subscription
+azure_subscription_tenant_id = ""
+
+# The ID of the service principal that will be used for authentication
+service_principal_id         = ""
+
+# The password of the service principal
+service_principal_password   = ""
+
+# The ID of your GitHub organization
+github_org_id                = ""
+
+# The ID of your Humanitec organization
+humanitec_org_id             = ""
+
+# The size of the nodes in the Azure Kubernetes Service (AKS) cluster
+aks_node_size                = "Standard_DS2_v2"

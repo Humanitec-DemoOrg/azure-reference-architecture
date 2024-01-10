@@ -1,9 +1,0 @@
-resource_group_name                     = "test"
-aks_cluster_name                        = "test"
-ingress_nginx_public_ip_address         = "0.0.0.0"
-credentials = {
-    azure_subscription_id               = " "
-    azure_subscription_tenant_id        = " "
-    service_principal_id                = " "
-    service_principal_password          = " "
-}
